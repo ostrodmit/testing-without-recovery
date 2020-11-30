@@ -1,4 +1,4 @@
-# Near-Optimal Model Discrimination with Non-Disclosure Property
+# Near-Optimal Model Discrimination with Non-Disclosure
 
 Matlab implementation of numerical experiments from the paper
 
