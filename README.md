@@ -1,10 +1,10 @@
 # Near-Optimal Model Discrimination with Non-Disclosure Property
 
-Matlab implementation of numerical experiments from the paper
+Matlab implementation of numerical experiments from the paper:
 
 [Dmitrii M. Ostrovskii, Mohamed Ndaoud, Adel Javanmard, Meisam Razaviyayn. Near-Optimal Model Discrimination with Non-Disclosure Property](https://arxiv.org/abs/1810.06838)
 
-See Section 5 of the paper for the description of the experimental setup.
+These codes are due to Mohamed Ndaoud and Dmitrii M. Ostrovskii, jointly. See Section 5 of the paper for the description of the experimental setup.
 
 To run the experiments, clone or download the repository and run 
 ```
