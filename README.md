@@ -1,6 +1,6 @@
 # Near-Optimal Model Discrimination with Non-Disclosure
 
-Matlab implementation of numerical experiments from the paper:
+Python implementation of numerical experiments from the paper:
 
 [Dmitrii M. Ostrovskii, Mohamed Ndaoud, Adel Javanmard, Meisam Razaviyayn. Near-Optimal Model Discrimination with Non-Disclosure](???)
 
