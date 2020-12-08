@@ -12,4 +12,4 @@ The data for the curves will appear in ``data/gauss``. The plots will appear in 
 The experiments that reproduce the curves reported in the paper take a few days to run. To obtain (less accurate) results faster,
 change the number of Monte-Carlo trials: parameter ``T`` in ``run_all.py``. See ``/plots/T-150`` for an example.
 
-You can also play with the values of ``r`` and ``kappa`` in the nested loop -- they specify the rank and condition number of the design covariance matrix.
+You can also play with the values of ``r`` and ``kappa`` in the nested loop to specify the rank and condition number of the design covariance matrix.
