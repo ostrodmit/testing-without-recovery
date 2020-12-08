@@ -2,7 +2,7 @@
 
 Python implementation of numerical experiments from the paper:
 
-[Dmitrii M. Ostrovskii, Mohamed Ndaoud, Adel Javanmard, Meisam Razaviyayn. Near-Optimal Model Discrimination with Non-Disclosure](???)
+[Dmitrii M. Ostrovskii, Mohamed Ndaoud, Adel Javanmard, Meisam Razaviyayn. Near-Optimal Model Discrimination with Non-Disclosure](https://arxiv.org/abs/2012.02901)
 
 These codes are credited jointly to the first two authors. See Section 5 of the paper for the description of the experimental setup.
 
